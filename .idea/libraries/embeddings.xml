@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="embeddings">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/data/embeddings/embeddings.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
